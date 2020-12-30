@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sqljdbc4-2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../shahed/sql/sqljdbc42/sqljdbc4-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../shahed/Java/jfoneix/jfoenix-8.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
