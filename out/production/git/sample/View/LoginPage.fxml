@@ -12,8 +12,8 @@
 <AnchorPane prefHeight="240.0" prefWidth="447.0" style="-fx-background-color: #87CEFA;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.View.LoginPage">
    <children>
       <JFXTextField fx:id="txtUserName" layoutX="51.0" layoutY="46.0" prefHeight="25.0" prefWidth="230.0" />
-      <JFXTextField fx:id="txtPassword" layoutX="51.0" layoutY="95.0" prefHeight="25.0" prefWidth="230.0" />
-      <Button fx:id="btnSingIn" alignment="TOP_RIGHT" contentDisplay="CENTER" layoutX="222.0" layoutY="166.0" mnemonicParsing="false" onAction="#pressBtnSingIn" prefHeight="30.0" prefWidth="80.0" text="ورود" textAlignment="RIGHT" textOverrun="WORD_ELLIPSIS">
+      <JFXTextField layoutX="51.0" layoutY="95.0" prefHeight="25.0" prefWidth="230.0" />
+      <Button alignment="TOP_RIGHT" contentDisplay="CENTER" layoutX="222.0" layoutY="166.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="80.0" text="ورود" textAlignment="RIGHT" textOverrun="WORD_ELLIPSIS">
          <font>
             <Font name="System Bold Italic" size="14.0" />
          </font>
